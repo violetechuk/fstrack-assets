@@ -5,7 +5,7 @@ The following assets were **not modified** by us for use with FS Track, and were
 
 - **Aircraft silhouettes** (`images/aircraft/sil`)
 - **Country flags** (`images/flags`) - **Note:** Some of the files in this directory have been renamed for better use with FS Track.
-- **Altitude gradient SVG (in feet)** (`images/altitude.svg`)
+- **Altitude gradient SVG (in feet)** (`images/altitudes.svg`)
 
 The following assets were **modified** by us for use with FS Track:
 
